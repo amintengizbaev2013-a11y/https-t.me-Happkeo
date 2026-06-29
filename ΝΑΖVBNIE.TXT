@@ -1,6 +1,19 @@
 profile-title:Hapркео ключики (VPN)
 #profile-update-interval:1
-#support-url:https://t.me/Happkeo #profile-web-page-url:https://t.me/Happke
-https://raw.githubusercontent
-.com/hamedcode/port-based-v2ray
--configs/main/protocols/vless.txt
+#support-url:https://t.me/Happkeo #profile-web-page-url:https://t.me/Happke 
+https://raw
+.githubusercontent.com
+/ninjastrikers/Nexus-nodes/main
+/configs/countries/us/all.txt
+https://raw
+.githubusercontent.com
+/ninjastrikers/Nexus-nodes/main
+/configs/countries/hk/all.txt
+https://raw
+.githubusercontent.com
+/ninjastrikers/Nexus-nodes/main
+/configs/countries/de/all.txt
+ https://raw
+.githubusercontent.com
+/ninjastrikers/Nexus-nodes/main
+/configs/countries/sg/all.txt
