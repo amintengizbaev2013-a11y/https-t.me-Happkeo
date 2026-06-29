@@ -1,6 +1,7 @@
-profile-title:Hapркео ключики (VPN)
+#profile-title:Hapркео ключики (VPN)
 #profile-update-interval:1
-#support-url:https://t.me/Happkeo #profile-web-page-url:https://t.me/Happke 
+#support-url:https://t.me/Happkeo #profile-web-page-url:https://t.m/Happke 
+
 https://raw
 .githubusercontent.com
 /ninjastrikers/Nexus-nodes/main
