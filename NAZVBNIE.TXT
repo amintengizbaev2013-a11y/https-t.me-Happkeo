@@ -3,6 +3,4 @@
 #suppor ttps://t.me/Happkeo
 #profile-url:https://t.me/Hakeo
 
-vless://a6c595e7-34e2-4762-8947-1ffd25bf99de@62.152.60.85:443?security=reality&encryption=none&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=bd1c2c12ca44261a#%F0%9F%87%AB%F0%9F%87%B7+%F0%9F%9F%A2+France+%7C+%D0%91%D0%B5%D0%BB%D1%8B%D0%B5+%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8+%40hiddenwikipedia
-
-vless://a6c595e7-34e2-4762-8947-1ffd25bf99de@62.152.60.85:443?security=reality&encryption=none&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=bd1c2c12ca44261a#%F0%9F%87%AB%F0%9F%87%B7+%F0%9F%9F%A2+France+%7C+%D0%91%D0%B5%D0%BB%D1%8B%D0%B5+%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8+%40hiddenwikipediaب
+https://gist.githubusercontent.com/amintengizbaev2013-a11y/64d5872c405fb4722b5a72e4d3b1d821/raw/eaf383598881fd0262b6c330c948e4bcb5f1dbaa/gistfile1.txt
