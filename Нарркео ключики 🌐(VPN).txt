@@ -1,7 +1,7 @@
 profile-title:Happкео ключики🌐(VPN)
 #profile-update-interval:1
 #suppor ttps://t.me/Happkeo
-#profile-url:https://t.me/Hakeo
+#profile-url:https:/t.me/Hakeo
 
 vless://10e1b54e-9bd1-4181-b337-3e464f8051ec@213.219.212.105:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%F0%9F%8C%90%20%5B%F0%9F%8F%B3%EF%B8%8FLTE%5D%20%7C%20%F0%9F%A5%AD%F0%9F%94%A7%20%20
 
