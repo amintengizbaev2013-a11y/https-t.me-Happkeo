@@ -38,4 +38,3 @@ vless://3f298aca-2412-49ac-9f20-235f0e448d31@franceclouding.iranlast.com:7000?se
 vless://10e1b54e-9bd1-0001-b337-3e464f8051ec@2.26.78.146:443?fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&security=reality&sni=pro-de.emrata.top&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
  
 vless://f9ae5aed-9f23-4d9b-b4b2-e82a24c2d74a@45.195.111.77:443?flow=xtls-rprx-vision&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%2C%20Budapest%20%7C%20%5BBL%5D
- 
