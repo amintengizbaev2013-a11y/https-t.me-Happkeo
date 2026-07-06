@@ -3,7 +3,7 @@
 #profile-update-interval:1
 #suppor ttps://t.me/Happkeo
 #profile-url:https://t.me/Hakeo
-#announce: LTE ВКЛЮЧАТЬ КОГДА ГЛУШАТ
+
 
 vless://99641efc-b1c9-4f00-94b4-f15ab893b6f7@yandexru.zuuvpn.space:443?flow=&type=xhttp&host=yandexru.zuuvpn.space&path=/api/uploadFile/&mode=packet-up&extra=%257B%250A%2520%2520%2522scMaxConcurrentPosts%2522%2520:%25201,%250A%2520%2520%2522scMaxEachPostBytes%2522%2520:%2520524288,%250A%2520%2520%2522scMinPostsIntervalMs%2522%2520:%2520150,%250A%2520%2520%2522uplinkHTTPMethod%2522%2520:%2520%2522GET%2522,%250A%2520%2520%2522xPaddingHeader%2522%2520:%2520%2522X-Cache%2522,%250A%2520%2520%2522xPaddingKey%2522%2520:%2520%2522_dc%2522,%250A%2520%2520%2522xPaddingMethod%2522%2520:%2520%2522tokenish%2522,%250A%2520%2520%2522xPaddingObfsMode%2522%2520:%2520true,%250A%2520%2520%2522xPaddingPlacement%2522%2520:%2520%2522queryInHeader%2522%250A%257D&security=tls&sni=yandexru.zuuvpn.space&alpn=h2&fp=chrome&allowInsecure=0&echfq=none#%F0%9F%87%BB%F0%9F%87%B3LTE-%D0%90%D0%92%D0%A2%D0%9E%20%D0%A1%D0%90%D0%9C%D0%AB%D0%99%20%D0%9B%D0%A3%D0%A7%D0%A8%D0%98%D0%99
 LTE-БЕЛЫЕ СПИСКИ РЕЗЕРВ🛡️💎
