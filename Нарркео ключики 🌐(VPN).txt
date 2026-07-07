@@ -1,4 +1,4 @@
-#subscription-userinfo: upload=∞; download=∞; total=1072668082176; expire=1798761600
+#subscription-userinfo: upload=999; download=999; total=1072668082176; expire=1798761600
 #profile-title:Happкео ключик🌐(VPN)
 #profile-update-interval:1
 #suppor ttps://t.me/Happkeo
