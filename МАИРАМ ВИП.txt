@@ -1,3 +1,8 @@
+#subscription-userinfo: upload=0; download=0; total=0; expire=1893456000
+#profile-title: HAPPKEO КЛЮЧИКИ🌐 (ВПН)
+#profile-update-interval: 10
+#support-url: https://t.me/HAPPKEO
+#announce: Самый лучший канал @HAPPKEO
 
 🛡️При белых списках 🔽
 vless://7cec3808-65d4-4dbd-941f-e9b640977071@0.0.0.0:20000?flow=&type=xhttp&host=cdn.stroimvmeste.icu&path=/start&mode=auto&security=tls&sni=cdn.stroimvmeste.icu&alpn=h2&fp=chrome&allowInsecure=0&echfq=none#%D0%9F%D1%80%D0%B8%20%D0%B1%D0%B5%D0%BB%D1%8B%D1%85%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D1%85%20%F0%9F%94%BD
@@ -236,4 +241,4 @@ vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@188.253.22.93:443?encryption=none&s
 безлимит
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.31.120:443?encryption=none&security=reality&sni=ya.ru&fp=firefox&pbk=coo1GUSQ_7hoEqw7L2xCDW4EsHMI3RzVEiMCac8kF1o&sid=a1b2c3d4&type=tcp#🇫🇮 вьюга - Финляндия
 безлимит
-vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@153.80.249.195:443?encryption=none&security=reality&sni=iris-04.rita-cloud.com&fp=firefox&pbk=JjG9JXI2B0DmSmlY55YAY6O-mldN84I4-CiqII9_8jI&sid=26c501a781437581&type=tcp&flow=xtls-rprx-vision#🇳🇱 Фавоний - Нидерланды 🌊🛡
+vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@153.80.249.195:443?encryption=none&security=reality&sni=iris-04.rita-cloud.com&fp=firefox&pbk=JjG9JXI2B0DmSmlY55YAY6O-mldN84I4-CiqII9_8jI&sid=26c501a781437581&type=tcp&flow=xtls-rprx-vision#-Fi🇳🇱 Фавоний - Нидерланды 🌊🛡
